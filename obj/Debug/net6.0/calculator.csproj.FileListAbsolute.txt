@@ -1,0 +1,15 @@
+/Users/ridhomfadlan/skilvul/calculator/calculator/bin/Debug/net6.0/calculator
+/Users/ridhomfadlan/skilvul/calculator/calculator/bin/Debug/net6.0/calculator.deps.json
+/Users/ridhomfadlan/skilvul/calculator/calculator/bin/Debug/net6.0/calculator.runtimeconfig.json
+/Users/ridhomfadlan/skilvul/calculator/calculator/bin/Debug/net6.0/calculator.dll
+/Users/ridhomfadlan/skilvul/calculator/calculator/bin/Debug/net6.0/calculator.pdb
+/Users/ridhomfadlan/skilvul/calculator/calculator/obj/Debug/net6.0/calculator.csproj.AssemblyReference.cache
+/Users/ridhomfadlan/skilvul/calculator/calculator/obj/Debug/net6.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ridhomfadlan/skilvul/calculator/calculator/obj/Debug/net6.0/calculator.AssemblyInfoInputs.cache
+/Users/ridhomfadlan/skilvul/calculator/calculator/obj/Debug/net6.0/calculator.AssemblyInfo.cs
+/Users/ridhomfadlan/skilvul/calculator/calculator/obj/Debug/net6.0/calculator.csproj.CoreCompileInputs.cache
+/Users/ridhomfadlan/skilvul/calculator/calculator/obj/Debug/net6.0/calculator.dll
+/Users/ridhomfadlan/skilvul/calculator/calculator/obj/Debug/net6.0/refint/calculator.dll
+/Users/ridhomfadlan/skilvul/calculator/calculator/obj/Debug/net6.0/calculator.pdb
+/Users/ridhomfadlan/skilvul/calculator/calculator/obj/Debug/net6.0/calculator.genruntimeconfig.cache
+/Users/ridhomfadlan/skilvul/calculator/calculator/obj/Debug/net6.0/ref/calculator.dll
